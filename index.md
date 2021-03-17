@@ -3,4 +3,4 @@
 テストテスト
 
 
-[Readme](Readme.md)
+[README](README.md)
